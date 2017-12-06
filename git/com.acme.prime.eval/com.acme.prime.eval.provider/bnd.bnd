@@ -4,10 +4,8 @@
 
 Bundle-Version:					1.0.0.${tstamp}
 Bundle-Description: \
-	The provider bundle for com.acme.prime.eval.provider. \
-	\
-	${warning;Please update this Bundle-Description in com.acme.prime.eval.provider/api.bnd}
-
+	The provider bundle for com.acme.prime.eval.provider exercising by Eric. 
+	
 Export-Package: \
 	com.acme.prime.eval.provider.api;-provide=true,\
 	com.acme.prime.eval.api

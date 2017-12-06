@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<repository increment="1512186801934" name="com.acme.prime.eval.api" xmlns="http://www.osgi.org/xmlns/repository/v1.0.0">
+<repository increment="1512554928924" name="com.acme.prime.eval.api" xmlns="http://www.osgi.org/xmlns/repository/v1.0.0">
   <resource>
     <capability namespace="osgi.identity">
       <attribute name="osgi.identity" value="com.acme.prime.eval.api"/>
       <attribute name="type" value="osgi.bundle"/>
-      <attribute name="version" type="Version" value="1.0.0.201712020353"/>
+      <attribute name="version" type="Version" value="1.0.0.201712060829"/>
     </capability>
     <capability namespace="osgi.content">
-      <attribute name="osgi.content" value="02dfa154f17dd3b681440fde42d05d28e4862acd48b82da33c4fce26b3ccd51e"/>
+      <attribute name="osgi.content" value="f9f4db8b87725e004daa02068125044ae2bd3015736aa11246ed8603d6170c85"/>
       <attribute name="url" value="generated/com.acme.prime.eval.api.jar"/>
-      <attribute name="size" type="Long" value="3745"/>
+      <attribute name="size" type="Long" value="3748"/>
       <attribute name="mime" value="application/vnd.osgi.bundle"/>
     </capability>
     <capability namespace="osgi.wiring.bundle">
       <attribute name="osgi.wiring.bundle" value="com.acme.prime.eval.api"/>
-      <attribute name="bundle-version" type="Version" value="1.0.0.201712020353"/>
+      <attribute name="bundle-version" type="Version" value="1.0.0.201712060829"/>
     </capability>
     <capability namespace="osgi.wiring.host">
       <attribute name="osgi.wiring.host" value="com.acme.prime.eval.api"/>
-      <attribute name="bundle-version" type="Version" value="1.0.0.201712020353"/>
+      <attribute name="bundle-version" type="Version" value="1.0.0.201712060829"/>
     </capability>
     <capability namespace="osgi.wiring.package">
       <attribute name="osgi.wiring.package" value="com.acme.prime.eval.api"/>
       <attribute name="version" type="Version" value="1.0.0"/>
       <attribute name="bundle-symbolic-name" value="com.acme.prime.eval.api"/>
-      <attribute name="bundle-version" type="Version" value="1.0.0.201712020353"/>
+      <attribute name="bundle-version" type="Version" value="1.0.0.201712060829"/>
     </capability>
     <capability namespace="bndtools.workspace">
       <attribute name="bndtools.workspace" value="file:/G:/Project%20Workspaces/com.acme.prime.eval"/>

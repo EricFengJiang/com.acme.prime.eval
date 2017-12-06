@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<repository increment="1512534922550" name="com.acme.prime.eval.application" xmlns="http://www.osgi.org/xmlns/repository/v1.0.0">
+<repository increment="1512554928492" name="com.acme.prime.eval.application" xmlns="http://www.osgi.org/xmlns/repository/v1.0.0">
   <resource>
     <capability namespace="osgi.identity">
       <attribute name="osgi.identity" value="com.acme.prime.eval.application"/>
       <attribute name="type" value="osgi.bundle"/>
-      <attribute name="version" type="Version" value="1.0.0.201712060433"/>
+      <attribute name="version" type="Version" value="1.0.0.201712061008"/>
     </capability>
     <capability namespace="osgi.content">
-      <attribute name="osgi.content" value="4d63b2c622b5c9e37a147de6150c72d9be8f09dbfc07aa4c31b842d7f7c7b605"/>
+      <attribute name="osgi.content" value="7508262dc0225ddedb8e1b438c741dc71fb1468a4d43a48549edc0b0c4d9eb04"/>
       <attribute name="url" value="generated/com.acme.prime.eval.application.jar"/>
-      <attribute name="size" type="Long" value="10923"/>
+      <attribute name="size" type="Long" value="10925"/>
       <attribute name="mime" value="application/vnd.osgi.bundle"/>
     </capability>
     <capability namespace="osgi.wiring.bundle">
       <attribute name="osgi.wiring.bundle" value="com.acme.prime.eval.application"/>
-      <attribute name="bundle-version" type="Version" value="1.0.0.201712060433"/>
+      <attribute name="bundle-version" type="Version" value="1.0.0.201712061008"/>
     </capability>
     <capability namespace="osgi.wiring.host">
       <attribute name="osgi.wiring.host" value="com.acme.prime.eval.application"/>
-      <attribute name="bundle-version" type="Version" value="1.0.0.201712060433"/>
+      <attribute name="bundle-version" type="Version" value="1.0.0.201712061008"/>
     </capability>
     <capability namespace="osgi.service">
       <attribute name="objectClass" type="List&lt;String&gt;" value="com.acme.prime.eval.application.EvalApplication"/>
