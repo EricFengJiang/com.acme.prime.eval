@@ -7,4 +7,6 @@ jdk:
 
 install: ./gradlew --version
 
+
+
 script: ./gradlew --continue
